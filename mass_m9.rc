@@ -1,0 +1,12 @@
+set logfile "3"
+set s_initsound "0"
+set gl_mode "9"
+set vid_fullscreen "1"
+
+snd_restart
+vid_restart
+
+set timedemo "1"
+
+demomap massive1.dm2
+set nextserver "quit"
